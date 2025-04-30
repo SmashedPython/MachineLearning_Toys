@@ -64,3 +64,14 @@ pip install numpy scikit-learn matplotlib opencv-python
 This repository is intended for educational use only. Please credit if reused or referenced.
 
 ---
+
+# 👿 Disclaim
+
+This repository contains my original implementation of machine learning assignments completed as part of my coursework.
+The code is for personal learning and public reference only, and is not intended for reuse in any academic submission.
+
+Anyone copying or submitting this code for assignments, class projects, or evaluations may be violating academic integrity policies.
+
+Please learn responsibly. I do not condone or take responsibility for academic misconduct resulting from misuse of this repository.
+
+---
